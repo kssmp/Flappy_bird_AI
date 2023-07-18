@@ -20,3 +20,6 @@ https://github.com/kssmp/Flappy_bird_AI/assets/115448106/a8aa463f-a715-4897-81d4
 * Os
 * Time
 
+### Team Members:
+* Saket Koppineedi
+* Unmay Kharabe
